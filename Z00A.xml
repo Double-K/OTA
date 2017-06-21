@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+    <Stable>
+        <Z00A>
+            <Filename>RR-N-v5.8.3-20170621-Z00A-OFFICIAL.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Latest ResurrectionRemix build">https://drive.google.com/open?id=0B-Cwz0Z57AHcSWtJTmhlNTZKanM</RomUrl>
+	          <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View Changelog">https://hastebin.com/libobutade.vbs</ChangelogUrl>
+	       </Z00A>
+    </Stable>
+</SlimOTA>
