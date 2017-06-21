@@ -7,10 +7,14 @@
                 id="rom"
                 title="Rom"
                 description="Latest ResurrectionRemix build">https://drive.google.com/open?id=0B-Cwz0Z57AHcSWtJTmhlNTZKanM</RomUrl>
-	          <ChangelogUrl
+	    <ChangelogUrl
                 id="changelog"
                 title="Changelog"
                 description="View Changelog">https://hastebin.com/libobutade.vbs</ChangelogUrl>
-	       </Z00A>
+	    <OpenGappsUrl
+            	id="open_gapps"
+            	title="Open"
+            	description="Download Open latest GApps">http://opengapps.org</OpenGappsUrl>
+	 </Z00A>
     </Stable>
 </SlimOTA>
